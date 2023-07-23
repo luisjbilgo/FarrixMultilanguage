@@ -1,0 +1,97 @@
+{
+    "slogan": {
+        "0": "Experiences",
+        "1": "Places",
+        "2": "Friends"
+      },
+      "nueva-titulo": {
+        "0": "New",
+        "1": "New",
+        "2": "New"
+    },
+
+    "header":{
+        "functions":"Functions",
+        "team":"Team",
+        "mision":"Mision",
+        "contact":"Contact",
+        "download":"Download"
+    },
+
+    "hero":{
+        "subtittle": "With us you find"
+    },
+
+    "features":{
+        "subtitle": "Our App Features" , 
+        "title": "Amazing Features" ,
+        "card-title1": "Comments and ratings" ,
+        "card-text1": "Because we care about you, your opinion and thoughts are valuable" ,
+        "card-title2": "Real Time Interaction" ,
+        "card-text2": "Find out about sporadic promotions and live events" ,
+         "card-title3": "Buy Tickets" ,
+        "card-text3": "In addition to being up to date with the events you like, you can buy tickets in one place" ,
+        "card-title4": "Safety and guarantee" ,
+        "card-text4": "Where your data and your money will always be safe" 
+    },
+
+    "about":{
+        "subtitle": "E-map in real time",
+        "title":"The best way to find what makes you happy",
+        "text": "You will never miss an amazing event near you. Our real-time e-map feature shows you all the events near your current location. Whether you are looking for concerts, festivals or exhibitions, FARRIX will keep you informed of everything that is happening in your city and wherever you are.",
+        "item-title1":"Precise location",
+        "item-text1":"Experience the precision of our geolocation technology",
+        "item-title2":"Specialized Filtering",
+        "item-text2":" Decide which events to find. With our filtering technology you will be able to discover the events closest to you that suit your needs ",
+        "Discover":"Discover More"
+    },
+
+    "about-2":{
+        "subtitle": "Cool & Amazing Design",
+        "title":"Multimedia content about your events",
+        "text": "At Farrix, we want you to experience events to the fullest. That's why we offer a complete social experience within our app. Follow your favorite events and share your experience with friends and followers through posts, photos and videos. At FARRIX, we believe that events are an opportunity to connect with others and have unforgettable experiences.",
+        "text-1":"Missed an amazing event? Don't worry! With FARRIX, you can relive the experience with high-quality multimedia content, shared by other users on our social platform. Browse photos and videos of the event's highlights and feel the excitement of the moment from your mobile device.",
+        "Discover":"Discover More"
+    },
+
+    "app":{
+        "subtitle":"Custom QR",
+        "title":"Scan your ticket with QR",
+        "text":"At FARRIX we make your events more accessible. With our custom QR code generation technology, you can have quick and secure access to your event tickets and tickets from the convenience of your mobile device. Forget about printing tickets or standing in long lines at the event gate. With FARRIX, enjoy a fast and stress-free entry experience.",
+        "qrcode":"checking tickets..."
+    },
+
+
+    "app-1":{
+        "subtitle": "Download Our App",
+        "title":"Farrix your best ally",
+        "text":"With Farrix, it has never been easier to find the perfect event for you and purchase your tickets in a matter of minutes. In addition, you will be able to stay informed of exclusive promotions at specific times. The process is extremely simple: you only need to find out about the activity, learn about the opinion of the community about it and, if you wish, purchase your tickets in a few steps. Make your experience unforgettable with Farrix!"
+    },
+
+    "blog":{
+        "subtitle": "Recent Blogs",
+        "title":"Last News",
+        "date-time":"July 15,2023",
+        "card-title":"Podcast interviewing 2 of the founders",
+        "btn":"Soon",
+        "date-time2":"June 20,2023",
+        "card-title2":"Tragic finale on stage: Rapper Big Pokey passes away...",
+        "btn2":"Read More", 
+        "date-time3":"May 9, 2023",
+        "card-title3":"App available on Google play",
+        "download":"Download"
+    },
+
+    "team":{
+        "team": "Team"
+    },
+
+    "footer":{
+        "text":"The social network of events and experiences where we make it easy for you to do something new in your free time.",
+        "title":"Useful Links",
+        "politics":"Privacy Policy",
+        "link":"App download",
+        "terms":"Terms of use",
+        "contact": "Get In Touch"
+    }
+}
